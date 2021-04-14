@@ -3,7 +3,7 @@ Python tutorial without using built-in math functions
 
 **Data Structures**
 
-**Question 1**
+**Question 1**<br/>
 Write a Python function is_multiple(x,y) which returns True if x is a multiple of y and False if 
 x is NOT a multiple of y.
 
